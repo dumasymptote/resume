@@ -3,155 +3,59 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Thomas Crha
-description-meta: 'senior engineer with a strong background in systems, operations and software.'
+title: Mark Guthrie
+description-meta: 'New Lawyer with experience in software development.'
 keywords:
-  - 'python'
-  - 'go'
-  - 'rust'
+  - law
+  - legal researchx
   - 'javascript'
-  - 'c'
-  - 'bash'
   - 'c#'
   - 'asp.net'
   - 'sql'
   - 'html'
   - 'css'
-  - 'pandas'
-  - 'numpy'
-  - 'matplotlib'
-  - 'scikit-learn'
-  - 'scipy'
-  - 'jupyter'
-  - 'seaborn'
-  - 'plotly'
-  - 'hugginface'
-  - 'openai'
-  - 'argilla'
-  - 'databricks'
-  - 'fastapi'
-  - 'flask'
-  - 'django'
-  - 'sqlalchemy'
-  - 'celery'
-  - 'sveltekit'
   - 'tailwind'
   - 'react'
-  - 'angular'
-  - 'materialui'
-  - 'vue'
-  - 'htmx'
-  - 'rabbitmq'
-  - 'redis'
-  - 'docker'
-  - 'docker-swarm'
-  - 'kubernetes'
-  - 'aws'
-  - 'gcp'
-  - 'azure'
-  - 'terraform'
-  - 'helm'
-  - 'ansible'
-  - 'packer'
-  - 'vagrant'
   - 'postgresql'
-  - 'mysql'
   - 'mariadb'
   - 'mssql'
-  - 'mongodb'
-  - 'influxdb'
-  - 'elasticsearch'
-  - 'machine learning'
-  - 'data science'
   - 'full stack'
   - 'backend'
   - 'frontend'
-  - 'devops'
-  - 'sre'
-  - 'infrastructure'
-  - 'linux'
   - 'git'
 ---
-### senior engineer with a strong background in systems, operations and software. {#under-heading}
-###### [ [thomascrha.github.io](https://github.com/thomascrha) ] . [ [thomas@9bitbyte.com](mailto:thomas@9bitbyte.com) ] . [ [0449 856 278](tel:0449856278) ] {#under-heading}
-## skills
+### Lawyer with experience in software development. {#under-heading}
+###### [ [dumasymptote.com](https://dumasymptote.com) ] . [ [mguthriejr@gmail.com](mailto:mguthriejr@gmail.com) ] . [ [214 802 5720](tel:2148025720) ] {#under-heading}
 
-**Programming:** Python, Go, Rust, JavaScript, C, bash, C#/ASP.NET, SQL, HTML/CSS 
+## Education
 
-**Data science & Machine Learning:** Pandas, NumPy, Matplotlib, Scikit-learn, SciPy, Jupyter, Seaborne, Plotly, Hugginface, OpenAI, AzureML, Argilla, Databricks
+**UNT Dallas College of Law, Dallas, TX**  
+*Juris Doctor, May 2023*  
+GPA: 3.66 Rank: 6/94  
+Deans List: Fall: 2019, 2020, 2021, 2022 Spring: 2021, 2022, 2023  
+Phi Delta Phi  
+CALI Awards: Commercial Law, Business Associations, Constitutional Law, Torts
 
-**Web:** FastAPI, Flask, Django, SQLAlchemy, Celery, Sveltekit, Tailwind, React, Angular 1.x, MaterialUI, Vue, HTMX 
+**Southern Methodist University, Dallas, TX**  
+*Bachelor of Science Computer Science, December 2010*
 
-**Infrastructure and Tools:** Git, GNU Utils, RabbitMQ, Redis, Docker, Docker-Swarm, Kubernetes, AWS, GCP, Azure, Terraform, Helm, Ansible, Packer, Vagrant
+## Experience:
 
-**Databases:** PostgreSQL, MySQL/MariaDB, MSSQL, MongoDB, InfluxDB, ElasticSearch
+### Associate Attorney, Scott, Ray, Pemberton & Goll, PLLC.
+**Aug. 2023 - Present, Greenville, TX**  
+Responsible for drafting legal motions, letters, and other documents as needed. Currently prosecute Class C misdemeanors for City of Greenville, Texas. Negotiate plea agreeements and litigate jury trials as necessary in Greenville Municipal Court.
 
+### Software Developer, Clearview Risk LLC
+**Sep. 2014 - Jul. 2023, Dallas, TX**  
+Responsible for development and maintenance of custom-built insurance software. Gathered system specifications and requirements from users to plan future software changes. Repsonded to user feedback and requests. Designed business reporting for management based on business needs. Worked with developers and other tema members to design, develop, test, debug, and complete projects on time and under budget. 
 
-## experience
+### Business Operation Analyst, Nationstar Mortgage
+**Apr. 2011 - Sep. 2014, Lewisville, TX**  
+Build and managed business reporting for call-center management team. Interacted with various business groups to design and track reporting initiatives within the company. Designed business processes for dialer operations to meet corporate and legal needs. Worked with other analysts to streamline call-center dialer management and operation. 
 
-### Machine Learning Engineer, QBE Australia 
+## Additional Information
+**References:**
+Available upon request
 
-**2022-current, Sydney, NSW**
-
-Working within the data analytics team building/maintaining a variety of services and products used by the wider business to improve claim management. Providing ML-Ops support for the team – setting up GPU nodes, cluster data connection and configurations.
-
-- Implemented a new Docker registry/git tagging system to improve overall maintenance of there stack as well as being able to track down bugs faster.
-- Migrated a employee allocation tool from a legacy system to a new system built on top of a modern stack (FastAPI, HTMX, PostgreSQL, Docker). 
-- Refactored/Rewrote a core application into something which is far more maintainable as well as extensible.
-
-### Senior Engineer, Dragonfly Technologies 
-
-**2019-2022, Sydney, NSW**
-
-Working on multiple greenfield projects for various clients based primarily around automation of network infrastructure (routers, switches etc.). With a focus on designing, creating and implementing back-end solutions and performing BAU Dev-Ops/SRE roles for managing and maintain clients infrastructure using infrastructure as code paradigms.
-	
-- Designed and developed a collection engine for collecting, processing and actioning network device infrastructure by crawling through a network and hoping between devices collecting their data.
-- Worked on [Rapid for Telstra Purple](https://www.dragonflytechnologies.com/case-studies/telstra-rapid#) a Ansible Tower like offering for managing and provisioning network infrastructure.
-- Designed and developed [fusion](https://www.dragonflytechnologies.com/services/automated-managed-services) a automated managed services platform. 
-
-### Full Stack Engineer, Appen Australia
-
-**2018-2019, Sydney, NSW**
-
-Part of a small team maintaining Appen's language resource work tool, Ampersand. Running the day-to-day tasks of the site (dev-ops and infrastructure management),feature creation and bug fixing. 
-
-- Helped move from our old system to [Ampersand](https://success.appen.com/hc/en-us/articles/360049566731-Guide-to-Running-an-Audio-Transcription-Job) beginning 2018.
-- Implemented our lexicon tool into [Ampersand](https://success.appen.com/hc/en-us/articles/360049566731-Guide-to-Running-an-Audio-Transcription-Job) feature set.
-- Implemented the video transcription module used inside the tool allowing users to annotate video recordings. 
-
-### Project Engineer, Appen Australia
-
-**2012-2018, Sydney, NSW**
-
-Creating custom solutions for various projects to meet client and business needs.
-
-- Helped transition from python2 -> python3 (conversion of scripts and sites).
-- Developed custom scripts/web applications for client projects.
-- Various ETL integration’s.
-- Linux server work to deploy and manage the various scripts/web application.
-- Various data science analysis’s.
-- Created multiple different packaging scripts and workflows for repeat clients.
-- Created an automated backup system utilising AWS's Glacier storage tier.
-
-### Owner and Operator, 9bitbyte
-
-**2013-current, Sydney, NSW**
-
-A computer solution company providing mainly small business in my local area with various tech services and assistance.
-
-## achievements
-
-**Fusion:** a web-application/system built for Dragonfly Technologies to be used within there organisation helping them provision, automate, monitor and manage customers infrastructure – web-applications, VM’s, cluster, router, firewalls etc. . Primarily the applications utilised an concept called services – these where graph based work flows, all of which was customisable via a react front-end. Each node could be some sort of task (python script, Ansible playbook etc.). These tasks would then be run inside the customers network via a micro-service component called a satellite. Depending on how that task went (succeeded or failed) would then determine how the rest of the work flow would run. These services could also then be published to a customer portal, allowing service catalogue items to be selected and run.
-
-**Discovery tool:** a tool developed for Telstra allowing for finding of assets and network devices on a network without knowing what is there in the first place. The engine works by connecting to a set of know devices – collects data from them and then attempts to ‘crawl’ (ssh to any devices that device has knowledge of) – and in doing so being able to traverse a complex network structure to find all devices that are currently connected on that network.
-
-**End-to-end selenium testing suite:** a client-side testing suite implemented with server tests, utilising selenium, Docker and py-test allowing end-to-end testing of web applications. The framework provides a simple methodology for working through web pages via xpath's, allowing for DOM object waiting/checking.
-
-## projects
-
-**[whynes](https://github.com/thomascrha/whynes)** a 6502 Nintendo emulator written in Python.
-
-**[textual-game-of-life](https://github.com/thomascrha/textual-game-of-life)** an implementation of Conway's game of life (cellular automata) in the terminal using textual.
-
-**[resume](https://github.com/thomascrha/resume)** who doesn't like a little recursion.
-
+**Interests:**
+Esports, Technology, Gardening, Literature
